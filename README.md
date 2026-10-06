@@ -1,2 +1,2 @@
 # customer-segmentation-rfm
-ustomer Segmentation and CLV Analysis using K-Means Clustering and Python
+Customer Segmentation and CLV Analysis using K-Means Clustering and Python
